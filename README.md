@@ -88,12 +88,10 @@ To deliver a powerful, interactive analytics tool that:
 
 ## 📸 Screenshots / Dashboard Previews
 
-> 📷 Add your screenshots below in this section. You can upload `.png` or `.gif` files to showcase key visuals.
+![Dashboard Screenshot 1](https://raw.githubusercontent.com/dhaval0v/Athlete-Analytics/main/dashboard-Screenshots/Screenshot%20(290).png)
+![Dashboard Screenshot 2](https://raw.githubusercontent.com/dhaval0v/Athlete-Analytics/main/dashboard-Screenshots/Screenshot%20(317).png)
+![Dashboard Screenshot 3](https://raw.githubusercontent.com/dhaval0v/Athlete-Analytics/main/dashboard-Screenshots/Screenshot%20(318).png)
+![Dashboard Screenshot 4](https://raw.githubusercontent.com/dhaval0v/Athlete-Analytics/main/dashboard-Screenshots/Screenshot%20(319).png)
+![Dashboard Screenshot 5](https://raw.githubusercontent.com/dhaval0v/Athlete-Analytics/main/dashboard-Screenshots/Screenshot%20(320).png)
+![Dashboard Screenshot 6](https://raw.githubusercontent.com/dhaval0v/Athlete-Analytics/main/dashboard-Screenshots/Screenshot%20(321).png)
 
-Example: 
-https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(290).png
-https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(317).png
-https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(318).png
-https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(319).png
-https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(320).png
-https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(321).png
