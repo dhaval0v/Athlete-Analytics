@@ -90,4 +90,10 @@ To deliver a powerful, interactive analytics tool that:
 
 > 📷 Add your screenshots below in this section. You can upload `.png` or `.gif` files to showcase key visuals.
 
-Example:
+Example: 
+https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(290).png
+https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(317).png
+https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(318).png
+https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(319).png
+https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(320).png
+https://github.com/dhaval0v/Athlete-Analytics/blob/main/dashboard-Screenshots/Screenshot%20(321).png
